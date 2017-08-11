@@ -15,8 +15,8 @@ Navigate to the downloaded folder using cd.
 Run npm install on the terminal, and you're ready to go.
 
 Use the help flag to know more about the commands.
-node app.js --help
+`node app.js --help`
 
 To know more about a particular command, use command name before --help. For example,
-node app.js add --help
-node app.js read --help
+`node app.js add --help`
+`node app.js read --help`
